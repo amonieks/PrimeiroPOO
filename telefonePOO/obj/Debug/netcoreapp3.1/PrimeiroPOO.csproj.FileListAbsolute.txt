@@ -1,0 +1,13 @@
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\telefonePOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.exe
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\telefonePOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.deps.json
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\telefonePOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.runtimeconfig.json
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\telefonePOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.runtimeconfig.dev.json
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\telefonePOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.dll
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\telefonePOO\bin\Debug\netcoreapp3.1\PrimeiroPOO.pdb
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\telefonePOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.csprojAssemblyReference.cache
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\telefonePOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.AssemblyInfoInputs.cache
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\telefonePOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.AssemblyInfo.cs
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\telefonePOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.csproj.CoreCompileInputs.cache
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\telefonePOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.dll
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\telefonePOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.pdb
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\telefonePOO\obj\Debug\netcoreapp3.1\PrimeiroPOO.genruntimeconfig.cache
