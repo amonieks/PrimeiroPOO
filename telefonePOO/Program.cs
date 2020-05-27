@@ -12,9 +12,9 @@ namespace PrimeiroPOO
             
             motorola.cor = "Preto";
             motorola.modelo = "motorola";
-            motorola.tamanho = "7 Polegadas";
+            motorola.tamanho = 7;
             
-            Console.WriteLine(motorola.ligado());
+            Console.WriteLine(motorola.ligadesliga());
             Console.WriteLine("---------------------");
 
             Console.WriteLine("O que deseja fazer?");
@@ -24,13 +24,37 @@ namespace PrimeiroPOO
             Console.WriteLine("3 - Informações do telefone");
             Console.WriteLine("4 - Desligar");
             string escolha= Console.ReadLine();
-            Console.clear();
+            Console.Clear();
+
+            switch (escolha)
+            {
+                case "1":
+                    Console.WriteLine(motorola.mensagem());
+                    break;
+                
+                case "2":
+                    Console.WriteLine(motorola.chamada());
+                    break;
+
+                case "3":
+                    Console.WriteLine(motorola.modelo+"n/"+motorola.cor+"n/"+motorola.tamanho);
+                    break;
+                
+                case "4":
+                    motorola.ligado = false;
+                    Console.WriteLine(motorola.ligadesliga());
+                    break;
+                default:
+                    Console.WriteLine("Escolha uma opção no menu");
+                break;
+
+            }
 
            
 
 
 
-            Console.WriteLine("Hello World!");
+        
         }
     }
 }

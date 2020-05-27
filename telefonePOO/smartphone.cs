@@ -13,7 +13,7 @@ namespace PrimeiroPOO
 
         public string ligadesliga(){
 
-          
+            
            
             if(ligado==false){
 
@@ -30,7 +30,7 @@ namespace PrimeiroPOO
             return "chamada em andamento";
         }
         
-        public string mensagen(){
+        public string mensagem(){
 
             return "Mensagem enviada";
 
