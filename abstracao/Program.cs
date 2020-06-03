@@ -30,7 +30,7 @@ namespace abstracao
 
             System.Console.WriteLine("Digite o Valor do pagamento");
             float valorpag = float.Parse(Console.ReadLine());
-
+    
             System.Console.WriteLine("-------------");
             System.Console.WriteLine("");
 
