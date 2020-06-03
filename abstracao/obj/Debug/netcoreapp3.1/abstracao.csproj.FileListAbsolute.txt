@@ -1,0 +1,13 @@
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\abstracao\obj\Debug\netcoreapp3.1\abstracao.csprojAssemblyReference.cache
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\abstracao\obj\Debug\netcoreapp3.1\abstracao.AssemblyInfoInputs.cache
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\abstracao\obj\Debug\netcoreapp3.1\abstracao.AssemblyInfo.cs
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\abstracao\obj\Debug\netcoreapp3.1\abstracao.csproj.CoreCompileInputs.cache
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\abstracao\bin\Debug\netcoreapp3.1\abstracao.exe
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\abstracao\bin\Debug\netcoreapp3.1\abstracao.deps.json
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\abstracao\bin\Debug\netcoreapp3.1\abstracao.runtimeconfig.json
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\abstracao\bin\Debug\netcoreapp3.1\abstracao.runtimeconfig.dev.json
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\abstracao\bin\Debug\netcoreapp3.1\abstracao.dll
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\abstracao\bin\Debug\netcoreapp3.1\abstracao.pdb
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\abstracao\obj\Debug\netcoreapp3.1\abstracao.dll
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\abstracao\obj\Debug\netcoreapp3.1\abstracao.pdb
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\abstracao\obj\Debug\netcoreapp3.1\abstracao.genruntimeconfig.cache
