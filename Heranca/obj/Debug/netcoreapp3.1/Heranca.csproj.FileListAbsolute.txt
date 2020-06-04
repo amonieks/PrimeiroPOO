@@ -1,0 +1,13 @@
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Heranca\obj\Debug\netcoreapp3.1\Heranca.csprojAssemblyReference.cache
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Heranca\obj\Debug\netcoreapp3.1\Heranca.AssemblyInfoInputs.cache
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Heranca\obj\Debug\netcoreapp3.1\Heranca.AssemblyInfo.cs
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Heranca\obj\Debug\netcoreapp3.1\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Heranca\bin\Debug\netcoreapp3.1\Heranca.exe
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Heranca\bin\Debug\netcoreapp3.1\Heranca.deps.json
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Heranca\bin\Debug\netcoreapp3.1\Heranca.runtimeconfig.json
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Heranca\bin\Debug\netcoreapp3.1\Heranca.runtimeconfig.dev.json
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Heranca\bin\Debug\netcoreapp3.1\Heranca.dll
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Heranca\bin\Debug\netcoreapp3.1\Heranca.pdb
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Heranca\obj\Debug\netcoreapp3.1\Heranca.dll
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Heranca\obj\Debug\netcoreapp3.1\Heranca.pdb
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Heranca\obj\Debug\netcoreapp3.1\Heranca.genruntimeconfig.cache
