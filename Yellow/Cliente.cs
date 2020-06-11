@@ -2,7 +2,7 @@ namespace Yellow
 {
     public class Cliente:Usuario
     {
-        private string Localizacao { get; set; }
+        public string Localizacao { get; set; }
 
 
         public bool Pesquisar(string localizacao){

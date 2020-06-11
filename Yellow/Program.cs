@@ -10,7 +10,7 @@ namespace Yellow
             Cliente cliente = new Cliente();
             Admin admin = new Admin();
             Bicicletas bicicleta = new Bicicletas();
-            Pagamento pagamento = new Pagamento();
+            
 
             cliente.Email = "email";
             cliente.Senha = "senha";
@@ -29,6 +29,9 @@ namespace Yellow
             string resposta = Console.ReadLine();
             string email;
             string senha;
+            bool teste;
+
+            
 
             switch (resposta)
             {
@@ -37,15 +40,30 @@ namespace Yellow
                 email = Console.ReadLine();
                 System.Console.WriteLine("Digite a Senha");
                 senha = Console.ReadLine();
-                System.Console.WriteLine(cliente.Login(email,senha));            
+                
+                 teste = (cliente.Login(email,senha));
+                
+                if(teste){
+                    System.Console.WriteLine("Login com sucesso "); 
+                    Pagamento pagamento = new Pagamento();
+
+                    System.Console.WriteLine("Digite sua localização atual");
+                    cliente.Localizacao = Console.ReadLine();
+
+                    }else{
+                    System.Console.WriteLine("Senha ou email incorreto");
+                    }  
+
                 break;
+
+
 
                 case "1": 
                 System.Console.WriteLine("Digite o email");
                 email = Console.ReadLine();
                 System.Console.WriteLine("Digite a Senha");
                 senha = Console.ReadLine();
-                bool teste = (admin.Login(email,senha));
+                teste = (admin.Login(email,senha));
                 
                 if(teste){
                     System.Console.WriteLine("Login com sucesso ");

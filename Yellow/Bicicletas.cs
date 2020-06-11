@@ -10,6 +10,8 @@ namespace Yellow
 
         public double ValorCorrida {get;set;}
 
+        public string BikeLocais {get;set;}
+
         
 
 
