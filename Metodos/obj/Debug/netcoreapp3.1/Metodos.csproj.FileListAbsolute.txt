@@ -1,0 +1,13 @@
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Metodos\obj\Debug\netcoreapp3.1\Metodos.csprojAssemblyReference.cache
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Metodos\obj\Debug\netcoreapp3.1\Metodos.AssemblyInfoInputs.cache
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Metodos\obj\Debug\netcoreapp3.1\Metodos.AssemblyInfo.cs
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Metodos\obj\Debug\netcoreapp3.1\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Metodos\bin\Debug\netcoreapp3.1\Metodos.exe
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Metodos\bin\Debug\netcoreapp3.1\Metodos.deps.json
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Metodos\bin\Debug\netcoreapp3.1\Metodos.runtimeconfig.json
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Metodos\bin\Debug\netcoreapp3.1\Metodos.runtimeconfig.dev.json
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Metodos\bin\Debug\netcoreapp3.1\Metodos.dll
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Metodos\bin\Debug\netcoreapp3.1\Metodos.pdb
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Metodos\obj\Debug\netcoreapp3.1\Metodos.dll
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Metodos\obj\Debug\netcoreapp3.1\Metodos.pdb
+C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Metodos\obj\Debug\netcoreapp3.1\Metodos.genruntimeconfig.cache
