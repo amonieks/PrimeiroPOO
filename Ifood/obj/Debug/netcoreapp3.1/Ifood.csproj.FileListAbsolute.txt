@@ -1,0 +1,13 @@
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Ifood\obj\Debug\netcoreapp3.1\Ifood.csprojAssemblyReference.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Ifood\obj\Debug\netcoreapp3.1\Ifood.AssemblyInfoInputs.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Ifood\obj\Debug\netcoreapp3.1\Ifood.AssemblyInfo.cs
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Ifood\obj\Debug\netcoreapp3.1\Ifood.csproj.CoreCompileInputs.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Ifood\bin\Debug\netcoreapp3.1\Ifood.exe
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Ifood\bin\Debug\netcoreapp3.1\Ifood.deps.json
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Ifood\bin\Debug\netcoreapp3.1\Ifood.runtimeconfig.json
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Ifood\bin\Debug\netcoreapp3.1\Ifood.runtimeconfig.dev.json
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Ifood\bin\Debug\netcoreapp3.1\Ifood.dll
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Ifood\bin\Debug\netcoreapp3.1\Ifood.pdb
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Ifood\obj\Debug\netcoreapp3.1\Ifood.dll
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Ifood\obj\Debug\netcoreapp3.1\Ifood.pdb
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Ifood\obj\Debug\netcoreapp3.1\Ifood.genruntimeconfig.cache
