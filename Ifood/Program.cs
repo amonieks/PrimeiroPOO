@@ -8,10 +8,12 @@ namespace Ifood
         {
             string lista ="";
             string[] comanda = new string[5];
+            int cont = 0;
             
             Cliente cliente = new Cliente();
             Restaurante galoburguer = new Restaurante();
             Pedido pedido = new Pedido();
+        
 
             galoburguer.NomeFantasia = "Galo Burguer";
             galoburguer.Endereco = "Av. Rangus, 1020";
@@ -45,26 +47,30 @@ namespace Ifood
             
             System.Console.WriteLine("------------------------------------------------");
               
-             
-                    
+             System.Console.WriteLine("Adicione o Item ao pedido");
+                lista = Console.ReadLine();
+                comanda[cont]= lista;
+               
+                cont=cont+1;
+                
+                        
+    
                  
-             for (int i = 0; i < 4; i++)
-             {
+             
+                               
+                    
 
-                    System.Console.WriteLine("Adicione o Item ao pedido");
-                    lista = Console.ReadLine();
+                    //pedido.Itens[i]=comanda[i];
 
-                    comanda[i]= lista;
+                    System.Console.WriteLine(comanda[cont]);
+                    //System.Console.WriteLine(comanda);
 
-                    System.Console.WriteLine(comanda[i]);
-                    System.Console.WriteLine(comanda);
-
-             }
+             
 
 
               }while(lista!="0");
 
-              pedido.Itens=comanda;
+              //System.Console.WriteLine(itens[0]);
 
 
              //string comanda = "";
@@ -113,7 +119,7 @@ namespace Ifood
             System.Console.WriteLine();
             System.Console.WriteLine($"{cliente.Endereco}\n{cliente.Nome}");
             System.Console.WriteLine();*/
-            System.Console.WriteLine(pedido.Itens);
+            //System.Console.WriteLine(pedido.Itens[2]);
 
         }
     }
