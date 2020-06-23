@@ -11,3 +11,16 @@ C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Yellow\bin\Debug\netcoreap
 C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Yellow\obj\Debug\netcoreapp3.1\Yellow.dll
 C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Yellow\obj\Debug\netcoreapp3.1\Yellow.pdb
 C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Yellow\obj\Debug\netcoreapp3.1\Yellow.genruntimeconfig.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Yellow\bin\Debug\netcoreapp3.1\Yellow.exe
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Yellow\bin\Debug\netcoreapp3.1\Yellow.deps.json
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Yellow\bin\Debug\netcoreapp3.1\Yellow.runtimeconfig.json
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Yellow\bin\Debug\netcoreapp3.1\Yellow.runtimeconfig.dev.json
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Yellow\bin\Debug\netcoreapp3.1\Yellow.dll
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Yellow\bin\Debug\netcoreapp3.1\Yellow.pdb
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Yellow\obj\Debug\netcoreapp3.1\Yellow.csprojAssemblyReference.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Yellow\obj\Debug\netcoreapp3.1\Yellow.AssemblyInfoInputs.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Yellow\obj\Debug\netcoreapp3.1\Yellow.AssemblyInfo.cs
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Yellow\obj\Debug\netcoreapp3.1\Yellow.csproj.CoreCompileInputs.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Yellow\obj\Debug\netcoreapp3.1\Yellow.dll
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Yellow\obj\Debug\netcoreapp3.1\Yellow.pdb
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Yellow\obj\Debug\netcoreapp3.1\Yellow.genruntimeconfig.cache

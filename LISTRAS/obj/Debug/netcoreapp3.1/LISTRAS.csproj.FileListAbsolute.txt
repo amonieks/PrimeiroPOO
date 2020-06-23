@@ -1,0 +1,13 @@
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\LISTRAS\obj\Debug\netcoreapp3.1\LISTRAS.csprojAssemblyReference.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\LISTRAS\obj\Debug\netcoreapp3.1\LISTRAS.AssemblyInfoInputs.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\LISTRAS\obj\Debug\netcoreapp3.1\LISTRAS.AssemblyInfo.cs
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\LISTRAS\obj\Debug\netcoreapp3.1\LISTRAS.csproj.CoreCompileInputs.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\LISTRAS\bin\Debug\netcoreapp3.1\LISTRAS.exe
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\LISTRAS\bin\Debug\netcoreapp3.1\LISTRAS.deps.json
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\LISTRAS\bin\Debug\netcoreapp3.1\LISTRAS.runtimeconfig.json
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\LISTRAS\bin\Debug\netcoreapp3.1\LISTRAS.runtimeconfig.dev.json
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\LISTRAS\bin\Debug\netcoreapp3.1\LISTRAS.dll
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\LISTRAS\bin\Debug\netcoreapp3.1\LISTRAS.pdb
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\LISTRAS\obj\Debug\netcoreapp3.1\LISTRAS.dll
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\LISTRAS\obj\Debug\netcoreapp3.1\LISTRAS.pdb
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\LISTRAS\obj\Debug\netcoreapp3.1\LISTRAS.genruntimeconfig.cache

@@ -4,9 +4,9 @@ namespace Ifood
     {
         public string[] Itens { get; set; }
 
-        public string Cliente { get; set; }
+        public Cliente Cliente { get; set; }
 
-        public string Restaurante { get; set; }
+        public Restaurante Restaurante { get; set; }
 
         public string FormaDePGTO { get; set; }
 
