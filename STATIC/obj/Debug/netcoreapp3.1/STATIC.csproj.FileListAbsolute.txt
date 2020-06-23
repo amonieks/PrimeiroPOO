@@ -1,0 +1,13 @@
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\STATIC\obj\Debug\netcoreapp3.1\STATIC.csprojAssemblyReference.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\STATIC\obj\Debug\netcoreapp3.1\STATIC.AssemblyInfoInputs.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\STATIC\obj\Debug\netcoreapp3.1\STATIC.AssemblyInfo.cs
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\STATIC\obj\Debug\netcoreapp3.1\STATIC.csproj.CoreCompileInputs.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\STATIC\bin\Debug\netcoreapp3.1\STATIC.exe
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\STATIC\bin\Debug\netcoreapp3.1\STATIC.deps.json
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\STATIC\bin\Debug\netcoreapp3.1\STATIC.runtimeconfig.json
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\STATIC\bin\Debug\netcoreapp3.1\STATIC.runtimeconfig.dev.json
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\STATIC\bin\Debug\netcoreapp3.1\STATIC.dll
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\STATIC\bin\Debug\netcoreapp3.1\STATIC.pdb
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\STATIC\obj\Debug\netcoreapp3.1\STATIC.dll
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\STATIC\obj\Debug\netcoreapp3.1\STATIC.pdb
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\STATIC\obj\Debug\netcoreapp3.1\STATIC.genruntimeconfig.cache
