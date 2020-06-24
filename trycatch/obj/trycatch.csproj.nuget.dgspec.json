@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\monie\\OneDrive\\Área de Trabalho\\PrimeiroPOO\\trycatch\\trycatch.csproj": {}
+    "C:\\Users\\monie\\OneDrive\\Documentos\\PrimeiroPOO\\trycatch\\trycatch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\monie\\OneDrive\\Área de Trabalho\\PrimeiroPOO\\trycatch\\trycatch.csproj": {
+    "C:\\Users\\monie\\OneDrive\\Documentos\\PrimeiroPOO\\trycatch\\trycatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\monie\\OneDrive\\Área de Trabalho\\PrimeiroPOO\\trycatch\\trycatch.csproj",
+        "projectUniqueName": "C:\\Users\\monie\\OneDrive\\Documentos\\PrimeiroPOO\\trycatch\\trycatch.csproj",
         "projectName": "trycatch",
-        "projectPath": "C:\\Users\\monie\\OneDrive\\Área de Trabalho\\PrimeiroPOO\\trycatch\\trycatch.csproj",
+        "projectPath": "C:\\Users\\monie\\OneDrive\\Documentos\\PrimeiroPOO\\trycatch\\trycatch.csproj",
         "packagesPath": "C:\\Users\\monie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\monie\\OneDrive\\Área de Trabalho\\PrimeiroPOO\\trycatch\\obj\\",
+        "outputPath": "C:\\Users\\monie\\OneDrive\\Documentos\\PrimeiroPOO\\trycatch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\monie\\AppData\\Roaming\\NuGet\\NuGet.Config"

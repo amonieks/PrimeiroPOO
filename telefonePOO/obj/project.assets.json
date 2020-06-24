@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\monie\\OneDrive\\Área de Trabalho\\PrimeiroPOO\\telefonePOO\\PrimeiroPOO.csproj",
+      "projectUniqueName": "C:\\Users\\monie\\OneDrive\\Documentos\\PrimeiroPOO\\telefonePOO\\PrimeiroPOO.csproj",
       "projectName": "PrimeiroPOO",
-      "projectPath": "C:\\Users\\monie\\OneDrive\\Área de Trabalho\\PrimeiroPOO\\telefonePOO\\PrimeiroPOO.csproj",
+      "projectPath": "C:\\Users\\monie\\OneDrive\\Documentos\\PrimeiroPOO\\telefonePOO\\PrimeiroPOO.csproj",
       "packagesPath": "C:\\Users\\monie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\monie\\OneDrive\\Área de Trabalho\\PrimeiroPOO\\telefonePOO\\obj\\",
+      "outputPath": "C:\\Users\\monie\\OneDrive\\Documentos\\PrimeiroPOO\\telefonePOO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\monie\\AppData\\Roaming\\NuGet\\NuGet.Config"

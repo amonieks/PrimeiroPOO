@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\monie\\OneDrive\\Área de Trabalho\\PrimeiroPOO\\Polimorfismo\\Polimorfismo.csproj",
+      "projectUniqueName": "C:\\Users\\monie\\OneDrive\\Documentos\\PrimeiroPOO\\Polimorfismo\\Polimorfismo.csproj",
       "projectName": "Polimorfismo",
-      "projectPath": "C:\\Users\\monie\\OneDrive\\Área de Trabalho\\PrimeiroPOO\\Polimorfismo\\Polimorfismo.csproj",
+      "projectPath": "C:\\Users\\monie\\OneDrive\\Documentos\\PrimeiroPOO\\Polimorfismo\\Polimorfismo.csproj",
       "packagesPath": "C:\\Users\\monie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\monie\\OneDrive\\Área de Trabalho\\PrimeiroPOO\\Polimorfismo\\obj\\",
+      "outputPath": "C:\\Users\\monie\\OneDrive\\Documentos\\PrimeiroPOO\\Polimorfismo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\monie\\AppData\\Roaming\\NuGet\\NuGet.Config"

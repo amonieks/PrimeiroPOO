@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\monie\\OneDrive\\Área de Trabalho\\PrimeiroPOO\\Metodos\\Metodos.csproj": {}
+    "C:\\Users\\monie\\OneDrive\\Documentos\\PrimeiroPOO\\Metodos\\Metodos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\monie\\OneDrive\\Área de Trabalho\\PrimeiroPOO\\Metodos\\Metodos.csproj": {
+    "C:\\Users\\monie\\OneDrive\\Documentos\\PrimeiroPOO\\Metodos\\Metodos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\monie\\OneDrive\\Área de Trabalho\\PrimeiroPOO\\Metodos\\Metodos.csproj",
+        "projectUniqueName": "C:\\Users\\monie\\OneDrive\\Documentos\\PrimeiroPOO\\Metodos\\Metodos.csproj",
         "projectName": "Metodos",
-        "projectPath": "C:\\Users\\monie\\OneDrive\\Área de Trabalho\\PrimeiroPOO\\Metodos\\Metodos.csproj",
+        "projectPath": "C:\\Users\\monie\\OneDrive\\Documentos\\PrimeiroPOO\\Metodos\\Metodos.csproj",
         "packagesPath": "C:\\Users\\monie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\monie\\OneDrive\\Área de Trabalho\\PrimeiroPOO\\Metodos\\obj\\",
+        "outputPath": "C:\\Users\\monie\\OneDrive\\Documentos\\PrimeiroPOO\\Metodos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\monie\\AppData\\Roaming\\NuGet\\NuGet.Config"
