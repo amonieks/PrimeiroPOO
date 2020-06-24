@@ -12,9 +12,15 @@ namespace Ifood
 
         public bool PedidoPago { get; set; }
 
-        public string EntregarPedido(string pedido, string endereco, string cliente, string restaurante, string pgto, string pago)
+        public string EntregarPedido()
         {
-            return $" {cliente} obrigado por escolher o {restaurante}, Entregando o pedido{pedido} no endereço {endereco}\n Forma de Pagamento:{pgto}\n Status:{pago}";
+
+            string notafiscal = "Descrição da Entrega\n";
+            
+            notafiscal += Cliente.MostrarDados();
+            notafiscal += Restaurante.MostrarDados();
+           
+            return notafiscal;
 
 
         }

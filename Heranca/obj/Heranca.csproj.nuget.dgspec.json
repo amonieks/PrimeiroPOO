@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\monie\\OneDrive\\Área de Trabalho\\PrimeiroPOO\\Heranca\\Heranca.csproj": {}
+    "C:\\Users\\monie\\OneDrive\\Documentos\\PrimeiroPOO\\Heranca\\Heranca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\monie\\OneDrive\\Área de Trabalho\\PrimeiroPOO\\Heranca\\Heranca.csproj": {
+    "C:\\Users\\monie\\OneDrive\\Documentos\\PrimeiroPOO\\Heranca\\Heranca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\monie\\OneDrive\\Área de Trabalho\\PrimeiroPOO\\Heranca\\Heranca.csproj",
+        "projectUniqueName": "C:\\Users\\monie\\OneDrive\\Documentos\\PrimeiroPOO\\Heranca\\Heranca.csproj",
         "projectName": "Heranca",
-        "projectPath": "C:\\Users\\monie\\OneDrive\\Área de Trabalho\\PrimeiroPOO\\Heranca\\Heranca.csproj",
+        "projectPath": "C:\\Users\\monie\\OneDrive\\Documentos\\PrimeiroPOO\\Heranca\\Heranca.csproj",
         "packagesPath": "C:\\Users\\monie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\monie\\OneDrive\\Área de Trabalho\\PrimeiroPOO\\Heranca\\obj\\",
+        "outputPath": "C:\\Users\\monie\\OneDrive\\Documentos\\PrimeiroPOO\\Heranca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\monie\\AppData\\Roaming\\NuGet\\NuGet.Config"

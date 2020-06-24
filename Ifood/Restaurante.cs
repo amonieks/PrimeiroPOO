@@ -13,10 +13,10 @@ namespace Ifood
 
         }
 
-        public string MostrarDados(string nomefantasia, string endereco)
+        public string MostrarDados()
         {
 
-            return $"Restaurante:{nomefantasia} \nEndereço:{endereco}";
+            return $"Restaurante:{NomeFantasia} \nEndereço:{Endereco}";
       }
     }
 }

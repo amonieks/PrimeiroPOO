@@ -11,3 +11,16 @@ C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Calculadora\bin\Debug\netc
 C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
 C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
 C:\Users\monie\OneDrive\Área de Trabalho\PrimeiroPOO\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csprojAssemblyReference.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache

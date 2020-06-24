@@ -16,5 +16,11 @@ namespace Heranca
 
             return false;
         }
+
+        public string NumeroCpf(string cpf)
+        {
+            return cpf;
+        }
+
     }
 }

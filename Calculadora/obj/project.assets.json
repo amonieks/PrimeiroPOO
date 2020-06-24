@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\monie\\OneDrive\\Área de Trabalho\\PrimeiroPOO\\Calculadora\\Calculadora.csproj",
+      "projectUniqueName": "C:\\Users\\monie\\OneDrive\\Documentos\\PrimeiroPOO\\Calculadora\\Calculadora.csproj",
       "projectName": "Calculadora",
-      "projectPath": "C:\\Users\\monie\\OneDrive\\Área de Trabalho\\PrimeiroPOO\\Calculadora\\Calculadora.csproj",
+      "projectPath": "C:\\Users\\monie\\OneDrive\\Documentos\\PrimeiroPOO\\Calculadora\\Calculadora.csproj",
       "packagesPath": "C:\\Users\\monie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\monie\\OneDrive\\Área de Trabalho\\PrimeiroPOO\\Calculadora\\obj\\",
+      "outputPath": "C:\\Users\\monie\\OneDrive\\Documentos\\PrimeiroPOO\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\monie\\AppData\\Roaming\\NuGet\\NuGet.Config"

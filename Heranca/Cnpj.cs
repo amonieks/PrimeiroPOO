@@ -5,7 +5,16 @@ namespace Heranca
         public string cnpj {get;set;}
 
 
-        public string numerocnpj(string cnpj){
+        public bool ValidarCnpj(string cnpj)
+        {
+            if(cnpj!=null)
+            {
+                return true;
+            }
+            return false;
+        }
+
+        public string Numerocnpj(string cnpj){
 
             return cnpj;
         }

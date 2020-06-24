@@ -12,10 +12,10 @@ namespace Ifood
             this.Endereco = endereco;
         }
 
-        public string MostrarDados(string nome, string endereco)
+        public string MostrarDados()
         {
             
-            return $"Cliente:{nome}\nEndereco:{endereco}";
+            return $"Cliente:{Nome}\nEndereco:{Endereco}";
         }
     }
 }

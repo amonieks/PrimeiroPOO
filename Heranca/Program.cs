@@ -11,19 +11,26 @@ namespace Heranca
 
             Cpf cpfp = new Cpf();
 
-
-            Console.WriteLine("Escreva o Seu nome");
-            cnpjp.Nome = Console.ReadLine();
-            cpfp.Nome = Console.ReadLine();
-
             System.Console.WriteLine(cpfp.saudacao());
+            System.Console.WriteLine();
+
+            Console.WriteLine("Escreve su nome ai");
+            string nome = Console.ReadLine(); 
+            cnpjp.Nome = nome; 
+            cpfp.Nome = nome;
+
+
+            
 
             string numero = "35547690-35";
             string registro = "23423553/0001-2";
 
-            cpfp.ValidarCpf(numero);
-            cnpjp.numerocnpj(registro);
-
+            
+            bool testcpf = cpfp.ValidarCpf(numero);
+            bool testcnpj = cnpjp.ValidarCnpj(registro);
+            System.Console.WriteLine();
+            System.Console.WriteLine($"CPF do Mano: {cpfp.NumeroCpf(numero)}");
+            System.Console.WriteLine($"CNPJ da Loja: {cnpjp.Numerocnpj(registro)}");
 
 
 
