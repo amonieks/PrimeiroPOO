@@ -12,7 +12,7 @@ namespace Recursivo
 
             r.GerarFibonacci(0,1,10);
             System.Console.WriteLine("----");
-            System.Console.WriteLine(f.Fator(5));
+            System.Console.WriteLine(f.Fator(3));
             
         }
     }

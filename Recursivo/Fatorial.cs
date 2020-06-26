@@ -10,7 +10,7 @@ namespace Recursivo
                 
             }else
             {
-                return num = Fator(num - 1);
+                return num * Fator(num - 1);
             }
 
     
