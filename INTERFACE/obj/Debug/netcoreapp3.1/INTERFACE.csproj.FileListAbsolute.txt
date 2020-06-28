@@ -1,0 +1,13 @@
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\INTERFACE\obj\Debug\netcoreapp3.1\INTERFACE.csprojAssemblyReference.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\INTERFACE\obj\Debug\netcoreapp3.1\INTERFACE.AssemblyInfoInputs.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\INTERFACE\obj\Debug\netcoreapp3.1\INTERFACE.AssemblyInfo.cs
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\INTERFACE\obj\Debug\netcoreapp3.1\INTERFACE.csproj.CoreCompileInputs.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\INTERFACE\bin\Debug\netcoreapp3.1\INTERFACE.exe
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\INTERFACE\bin\Debug\netcoreapp3.1\INTERFACE.deps.json
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\INTERFACE\bin\Debug\netcoreapp3.1\INTERFACE.runtimeconfig.json
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\INTERFACE\bin\Debug\netcoreapp3.1\INTERFACE.runtimeconfig.dev.json
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\INTERFACE\bin\Debug\netcoreapp3.1\INTERFACE.dll
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\INTERFACE\bin\Debug\netcoreapp3.1\INTERFACE.pdb
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\INTERFACE\obj\Debug\netcoreapp3.1\INTERFACE.dll
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\INTERFACE\obj\Debug\netcoreapp3.1\INTERFACE.pdb
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\INTERFACE\obj\Debug\netcoreapp3.1\INTERFACE.genruntimeconfig.cache
