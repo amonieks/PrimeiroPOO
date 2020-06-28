@@ -15,7 +15,7 @@ namespace INTERFACE
             foreach (Produto i in carrinho)
             {
                 
-                System.Console.WriteLine($"Produto: ({i.Codigo}) {i.Nome}=========Preco: {i.Preco}");
+                System.Console.WriteLine($"Produto: ({i.Codigo}) {i.Nome} ========= Preco: {i.Preco}");
             }
 
         }
@@ -33,6 +33,7 @@ namespace INTERFACE
 
         public void Deletar(Produto produto)
         {
+            
             carrinho.Remove(produto);
         }
 

@@ -20,6 +20,7 @@ namespace INTERFACE
                         c.Cadastrar(p1);
                         c.Cadastrar(p2);
                         c.Cadastrar(p3);
+                        c.Cadastrar(p4);
 
                         c.Listar();
                 System.Console.WriteLine("===================");
@@ -44,9 +45,38 @@ namespace INTERFACE
 
                     case "0":
 
+                            c.Listar();
+                            System.Console.WriteLine();
+
+                            Console.ForegroundColor = ConsoleColor.Blue;
+                            System.Console.WriteLine("Digite o código do item a ser removido");
+                            Console.ForegroundColor = ConsoleColor.White;
+                            System.Console.WriteLine();
+                            string cd = Console.ReadLine();
+                            switch (cd)
+                            {
+                                case "1":
+                                c.Deletar(p1);
+                                break;
+
+                                case "2":
+                                c.Deletar(p2);
+                                break;
+
+                                case "3":
+                                c.Deletar(p3);
+                                break;
+
+                                case "4":
+                                c.Deletar(p4);
+                                break;
                             
 
-                            c.Deletar(p2);
+                                default:
+                                System.Console.WriteLine("opção Fora da lista");
+                                break;
+                            }
+                            
 
 
                             c.Listar();
