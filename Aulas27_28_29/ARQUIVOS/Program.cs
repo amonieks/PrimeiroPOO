@@ -15,7 +15,7 @@ namespace ARQUIVOS
 
           
 
-          System.Console.WriteLine($"produto {p1.Nome} Cadastrado com sucesso ");
+          System.Console.WriteLine($"Produto {p1.Nome} Cadastrado com sucesso ");
 
 
 
