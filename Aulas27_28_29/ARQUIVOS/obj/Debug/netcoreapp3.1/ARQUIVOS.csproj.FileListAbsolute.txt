@@ -11,3 +11,16 @@ C:\Users\monie\OneDrive\Documentos\Aulas27_28_29\ARQUIVOS\obj\Debug\netcoreapp3.
 C:\Users\monie\OneDrive\Documentos\Aulas27_28_29\ARQUIVOS\obj\Debug\netcoreapp3.1\ARQUIVOS.dll
 C:\Users\monie\OneDrive\Documentos\Aulas27_28_29\ARQUIVOS\obj\Debug\netcoreapp3.1\ARQUIVOS.pdb
 C:\Users\monie\OneDrive\Documentos\Aulas27_28_29\ARQUIVOS\obj\Debug\netcoreapp3.1\ARQUIVOS.genruntimeconfig.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Aulas27_28_29\ARQUIVOS\bin\Debug\netcoreapp3.1\ARQUIVOS.exe
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Aulas27_28_29\ARQUIVOS\bin\Debug\netcoreapp3.1\ARQUIVOS.deps.json
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Aulas27_28_29\ARQUIVOS\bin\Debug\netcoreapp3.1\ARQUIVOS.runtimeconfig.json
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Aulas27_28_29\ARQUIVOS\bin\Debug\netcoreapp3.1\ARQUIVOS.runtimeconfig.dev.json
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Aulas27_28_29\ARQUIVOS\bin\Debug\netcoreapp3.1\ARQUIVOS.dll
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Aulas27_28_29\ARQUIVOS\bin\Debug\netcoreapp3.1\ARQUIVOS.pdb
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Aulas27_28_29\ARQUIVOS\obj\Debug\netcoreapp3.1\ARQUIVOS.csprojAssemblyReference.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Aulas27_28_29\ARQUIVOS\obj\Debug\netcoreapp3.1\ARQUIVOS.AssemblyInfoInputs.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Aulas27_28_29\ARQUIVOS\obj\Debug\netcoreapp3.1\ARQUIVOS.AssemblyInfo.cs
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Aulas27_28_29\ARQUIVOS\obj\Debug\netcoreapp3.1\ARQUIVOS.csproj.CoreCompileInputs.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Aulas27_28_29\ARQUIVOS\obj\Debug\netcoreapp3.1\ARQUIVOS.dll
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Aulas27_28_29\ARQUIVOS\obj\Debug\netcoreapp3.1\ARQUIVOS.pdb
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Aulas27_28_29\ARQUIVOS\obj\Debug\netcoreapp3.1\ARQUIVOS.genruntimeconfig.cache

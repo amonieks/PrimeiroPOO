@@ -1,3 +1,4 @@
+using System;
 using System.IO;
 
 namespace ARQUIVOS
@@ -11,13 +12,37 @@ namespace ARQUIVOS
         public double Valor { get; set; }
 
 
-        private const string PATH = "Database/produtos.csv";
+        private string PATH = "Database/produtos.csv";
+
+        private string DIR = "Database";
 
         public Produto()
         {
+            try{
+
             if(!File.Exists(PATH))
             {
             File.Create(PATH).Close();
+            }
+            }catch{
+
+                System.Console.WriteLine("Não há um diretorio para o arquivo digite o nome da pasta para criá-la");
+                DIR = Console.ReadLine();
+                DirectoryInfo dir = new DirectoryInfo(DIR);
+                dir.Create();
+                
+                string PAT = $"{DIR}/{PATH.Split('/')[1]}";
+                System.Console.WriteLine();
+                System.Console.WriteLine(PAT);
+                System.Console.WriteLine();
+                
+                System.Console.WriteLine($"Diretório: '{DIR}' Criado ");
+                File.Create(PAT).Close();
+
+                PATH = PAT;
+                System.Console.WriteLine();
+                System.Console.WriteLine($"New Path = {PATH}");
+                
             }
         }
 

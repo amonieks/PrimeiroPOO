@@ -13,6 +13,10 @@ namespace ARQUIVOS
 
           p1.Cadastrar(p1);
 
+          
+
+          System.Console.WriteLine($"produto {p1.Nome} Cadastrado com sucesso ");
+
 
 
         }
