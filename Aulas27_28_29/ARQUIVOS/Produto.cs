@@ -1,80 +1,168 @@
 using System;
+using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 
-namespace ARQUIVOS
+namespace Aula27_28_29_30
 {
     public class Produto
     {
-        public string Nome { get; set; }
-        
         public int Codigo { get; set; }
+        public string Nome { get; set; }
+        public float Preco { get; set; }
 
-        public double Valor { get; set; }
-
-
-        private string PATH = "Database/Produto.csv";
-
-        private string DIR = "Database";
+        private const string PATH = "Database/produto.csv";
 
         public Produto()
         {
-            try{
-                // Testa a existência do arquivo e cria um novo em caso negativo
+            // ------------------------------------------------
+            // Solução do desafio
+            string pasta = PATH.Split('/')[0];
+
+            if(!Directory.Exists(pasta)){
+                Directory.CreateDirectory(pasta);
+            }
+            // ------------------------------------------------
 
             if(!File.Exists(PATH))
             {
-            File.Create(PATH).Close();
-            }
-            }catch{
-
-                // Trata o erro gerado quando o folder/pasta para criar o arquivo não está disponível
-
-                //System.Console.WriteLine("A pasta destino não existe, digite o nome para criá-la");
-                //DIR = Console.ReadLine();
-                
-                //Cria a pasta
-                DirectoryInfo dir = new DirectoryInfo(DIR);
-                dir.Create();
-                
-                // Atualiza o nome do novo caminho para criar o arquivo
-                string PAT = $"{DIR}/{PATH.Split('/')[1]}";
-
-                //Informa o novo caminho criado
-                System.Console.WriteLine();
-                System.Console.WriteLine(PAT);
-                System.Console.WriteLine();
-
-
-                //informa o nome do novo diretório/pasta
-                System.Console.WriteLine($"Diretório: '{DIR}' Criado ");
-
-                //Cria  o Arquivo
-                File.Create(PAT).Close();
-
-
-              //  PATH = PAT;
-               // System.Console.WriteLine("New Folder = {PATH}");
-                
+                File.Create(PATH).Close();
             }
         }
 
+        /// <summary>
+        /// Cadastra um produto
+        /// </summary>
+        /// <param name="prod">Objeto Produto</param>
+        public void Cadastrar(Produto prod)
+        {
+            var linha = new string[] { PrepararLinha(prod) };
+            File.AppendAllLines(PATH, linha);
+        }
+
+        /// <summary>
+        /// Lê o csv 
+        /// </summary>
+        /// <returns>Lista de produtos</returns>
+        public List<Produto> Ler()
+        {
+            // Criamos uma lista que servirá como nosso retorno
+            List<Produto> produtos = new List<Produto>();
+
+            // Lemos o arquivo e transformamos em um array de linhas
+            // [0] = codigo=1;nome=Gibson;preco=7500
+            // [1] = codigo=1;nome=Fender;preco=7500 
+            string[] linhas = File.ReadAllLines(PATH);
+
+            foreach(string linha in linhas){
+                
+                // Separamos os dados de cada linha com Split
+                // [0] = codigo=1
+                // [1] = nome=Gibson
+                // [2] = preco=7500
+                string[] dado = linha.Split(";");
+
+                // Criamos instâncias de produtos para serem colocados na lista
+                Produto p   = new Produto();
+                p.Codigo    = Int32.Parse( Separar(dado[0]) );
+                p.Nome      = Separar(dado[1]);
+                p.Preco     = float.Parse( Separar(dado[2]) );
+
+                produtos.Add(p);
+            }
+
+            produtos = produtos.OrderBy(y => y.Nome).ToList();
+            return produtos; 
+        }
+
+        /// <summary>
+        /// Remove uma ou mais linhas que contenham o termo
+        /// </summary>
+        /// <param name="_termo">termo para ser buscado</param>
+        public void Remover(string _termo){
+
+            // Criamos uma lista que servirá como uma espécie de backup para as linhas do csv
+            List<string> linhas = new List<string>();
+
+            // Utilizamos a bliblioteca StreamReader para ler nosso .csv
+            using(StreamReader arquivo = new StreamReader(PATH))
+            {
+                string linha;
+                while((linha = arquivo.ReadLine()) != null)
+                {
+                    linhas.Add(linha);
+                }
+            }
+
+            // Removemos as linhas que tiverem o termo passado como argumento
+            // codigo=1;nome=Tagima;preco=7500
+            // Tagima 
+            linhas.RemoveAll(l => l.Contains(_termo));
+
+            // Reescrevemos nosso csv do zero
+            ReescreverCSV(linhas);
+        }
+        
+        /// <summary>
+        /// Altera um produto
+        /// </summary>
+        /// <param name="_produtoAlterado">Objeto de Produto</param>
+        public void Alterar(Produto _produtoAlterado){
+
+            // Criamos uma lista que servirá como uma espécie de backup para as linhas do csv
+            List<string> linhas = new List<string>();
+
+            // Utilizamos a bliblioteca StreamReader para ler nosso .csv
+            using(StreamReader arquivo = new StreamReader(PATH))
+            {
+                string linha;
+                while((linha = arquivo.ReadLine()) != null)
+                {
+                    linhas.Add(linha);
+                }
+            }
+            // codigo=2;nome=Ibanez;preco=7500
+            // linhas.RemoveAll(z => z.Split(";")[0].Contains(_produtoAlterado.Codigo.ToString()));
+            
+            // codigo= 2; nome=Ibanez;preco=7500
+            linhas.RemoveAll(z => z.Split(";")[0].Split("=")[1] == _produtoAlterado.Codigo.ToString());
+
+            // Adicionamos a linha alterada na lista de backup
+            linhas.Add( PrepararLinha(_produtoAlterado) );
+
+            // Reescrevemos nosso csv do zero
+            ReescreverCSV(linhas);         
+        }
+
+
+        private void ReescreverCSV(List<string> lines){
+            // Reescrevemos nosso csv do zero
+            using(StreamWriter output = new StreamWriter(PATH))
+            {
+                foreach(string ln in lines)
+                {
+                    output.Write(ln + "\n");
+                }
+            }   
+        }
+
+        public List<Produto> Filtrar(string _nome)
+        {
+            return Ler().FindAll(x => x.Nome == _nome);
+        }
+
+        private string Separar(string _coluna)
+        {
+            // 0      1
+            // nome = Gibson
+            return _coluna.Split("=")[1];
+        }
+
+        // 1;Celular;600
         private string PrepararLinha(Produto p)
         {
-
-            //monta a string para ser incluida no arquivo CSV
-            return $"Código {p.Codigo}; Nome {p.Nome}; Preço {p.Valor}";
+            return $"codigo={p.Codigo};nome={p.Nome};preco={p.Preco}";
         }
-
-        public void Cadastrar(Produto produto)
-        {
-            //Cria a linha de caracteres
-            var Linha = new string[]{PrepararLinha(produto)};
-
-            //Busca o arquivo PATH e adiiona a Linha criada
-            File.AppendAllLines(PATH,Linha);
-
-        }
-
 
     }
 }
