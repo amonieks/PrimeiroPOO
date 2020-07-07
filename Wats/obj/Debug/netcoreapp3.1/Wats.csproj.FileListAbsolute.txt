@@ -1,0 +1,13 @@
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Wats\obj\Debug\netcoreapp3.1\Wats.csprojAssemblyReference.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Wats\obj\Debug\netcoreapp3.1\Wats.AssemblyInfoInputs.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Wats\obj\Debug\netcoreapp3.1\Wats.AssemblyInfo.cs
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Wats\obj\Debug\netcoreapp3.1\Wats.csproj.CoreCompileInputs.cache
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Wats\bin\Debug\netcoreapp3.1\Wats.exe
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Wats\bin\Debug\netcoreapp3.1\Wats.deps.json
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Wats\bin\Debug\netcoreapp3.1\Wats.runtimeconfig.json
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Wats\bin\Debug\netcoreapp3.1\Wats.runtimeconfig.dev.json
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Wats\bin\Debug\netcoreapp3.1\Wats.dll
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Wats\bin\Debug\netcoreapp3.1\Wats.pdb
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Wats\obj\Debug\netcoreapp3.1\Wats.dll
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Wats\obj\Debug\netcoreapp3.1\Wats.pdb
+C:\Users\monie\OneDrive\Documentos\PrimeiroPOO\Wats\obj\Debug\netcoreapp3.1\Wats.genruntimeconfig.cache
